@@ -1,6 +1,6 @@
 # Codigo en Computador Hack
 
-``` ass
+``` asm
 @5 
 @10 
 D=A 
