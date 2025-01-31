@@ -12,4 +12,4 @@ D=D-A
 M=D 
 ```
 
-![image](https://github.com/user-attachments/assets/4697a282-4d6a-40aa-a176-97df88c9a84f)
+![Texto alternativo](../../../../assets/act7_1.png)
