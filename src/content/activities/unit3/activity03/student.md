@@ -2,9 +2,10 @@
 
 +-----------------------------------------------------+
 |       Segmento de código (Text Segment)             |
-|  Dirección de suma():                               |
-|  Dirección de main():                               |
-|  Dirección de funcionConStatic():                   |
+|  suma():                                            |
+|  main():                                            |
+|  funcionConStatic():                                |
+|  crearArrayHeap():                                  |
 +-----------------------------------------------------+
 |   Segmento de Variables                             |
 |  Dirección de global_inicializada: 00007FF7335DF000     |
