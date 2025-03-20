@@ -1,6 +1,6 @@
 # Actividad 1
 
-
+![Texto alternativo](../../../../assets/act1_4.png)
 
 ## ¿Cómo se crea la lista enlazada?
 La lista enlazada se declara en ofApp.h como una variable miembro de la clase ofApp:
