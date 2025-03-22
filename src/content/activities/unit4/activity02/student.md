@@ -32,7 +32,7 @@
 ## ¿Por qué crees que en C++ es necesario liberar la memoria de los objetos?
 En C++, en cambio, la administración de memoria es manual, lo que significa que el programador es responsable de asignar (new) y liberar (delete) la memoria cuando sea necesario
 
-![Texto alternativo](../../../../assets/act22_4.png)
+![Texto alternativo](../../../../assets/ac22_4.png)
 
 ## ¿Qué hace el método setup? ¿Qué hace el método update? ¿Qué hace el método draw? ¿Qué hace el método keyPressed?
 ### setup()
