@@ -1,0 +1,50 @@
+# Funciones de pintar y borrar
+
+``` asm
+@24576          
+    D=M           
+    @112          
+    D=D-A
+    @16          
+    D;JEQ
+    @24576
+    D=M          
+    @98          
+    D=D-A
+    @31          
+    D;JEQ
+    @11          
+    0;JMP
+    @inicio
+    0;JMP
+    @16384
+    D=A          
+    @5
+    M=D          
+    @8192       
+    D=A
+    @6
+    M=D          
+    @5
+    A=M         
+    M=-1        
+    @16
+    D;JGT      
+    @11
+    0;JMP      
+    @16384
+    D=A
+    @5
+    M=D          
+    @8192
+    D=A
+    @6
+    M=D          
+    @5
+    A=M         
+    M=0        
+    @31
+    D;JGT      
+    @11
+    0;JMP      
+```
